@@ -25,6 +25,7 @@ easily understandable algorithms for learning purposes.
     * [Square Subsequences](hacker-rank/algorithms/dynamic-programming/square-subsequences)
     * [Stock Maximize](hacker-rank/algorithms/dynamic-programming/stock-maximize)
     * [Summing Pieces](hacker-rank/algorithms/dynamic-programming/summing-pieces)
+    * [Construct the Array](hacker-rank/algorithms/dynamic-programming/construct-the-array)
   - [Graph Theory](hacker-rank/algorithms/graph-theory)
     * [BFS: Shortest Reach](hacker-rank/algorithms/graph-theory/bfs-shortest-reach)
     * [Crab Graphs](hacker-rank/algorithms/graph-theory/crab-graphs)
